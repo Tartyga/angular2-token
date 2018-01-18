@@ -1,9 +1,3 @@
-# Compiled Files
-lib
-*.js
-*.map
-*.d.ts
-
 # Library directories
 node_modules
 coverage
@@ -15,3 +9,4 @@ npm-debug.log
 
 # Ignore VSCode Config
 .vscode
+.idea
